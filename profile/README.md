@@ -22,4 +22,4 @@ This is just a list of our members and a small amount of information about each 
 *Minecraft mod developer.*
 
 [![kyle's github](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/VoidBLISS)
-
+[![kyle's twitter](https://img.shields.io/twitter/follow/icbmbliss?color=00acee&label=twitter&logo=twitter&logoColor=00acee&style=flat-square)](https://twitter.com/icbmbliss)
