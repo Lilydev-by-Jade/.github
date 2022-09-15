@@ -1,6 +1,6 @@
 # Lilydev 💖
 
-Lilydev was created by [Jade](https://github.com/jadelily18) for her and her friends' projects.
+Lilydev was created by [Jade](https://github.com/jadelily18) for her and her friends' projects & serves as a sort of unofficial brand for us.
 
 [![Discord](https://img.shields.io/discord/995465843364343883?color=5865F2&style=for-the-badge&label=discord)](https://discord.gg/TZAt4PA5av)
 
