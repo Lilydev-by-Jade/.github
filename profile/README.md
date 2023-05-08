@@ -17,7 +17,7 @@ This is just a list of our members and a small amount of information about each 
 [![jade's twitter](https://img.shields.io/twitter/follow/jadelily18?color=00acee&label=twitter&logo=twitter&logoColor=00acee&style=flat-square)](https://twitter.com/jadelily18)
 [![jade's kofi](https://badgen.net/badge/icon/kofi?icon=kofi&label=jadelily&color=pink&style=flat-square)](https://ko-fi.com/jadelily)
 
-## 🦊 VoidBLISS (Kyle)
+## 🦊 VoidBLISS (Kylee)
 
 *Minecraft mod developer.*
 
